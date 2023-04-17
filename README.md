@@ -1,2 +1,2 @@
 # Convertidor-de-Divisa
-Realizado para una tarea de la universidad
+Realizado para una tarea de la universidad en python
