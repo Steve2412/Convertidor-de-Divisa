@@ -1,3 +1,4 @@
+
 # ENGLISH
 # Currency Converter Application
 
@@ -24,3 +25,6 @@ Esta aplicación es un **convertidor de divisas** desarrollado en **Python**, qu
 - **Actualizaciones Continuas**: Las tasas de cambio se actualizan en tiempo real, garantizando precisión y fiabilidad para los usuarios.
   
 Este convertidor de divisas está diseñado para ayudar a los usuarios a rastrear y gestionar fácilmente las conversiones de divisas, convirtiéndose en una herramienta esencial para viajeros, negocios y cualquier persona que realice transacciones internacionales.
+
+
+![Image](https://github.com/user-attachments/assets/ae843bb7-11b2-47a0-b8fd-fc34e1a9887d)
